@@ -295,6 +295,7 @@ expansion_rules:
   nogen: "(nogle|nogen)"
   enheder: "enhed[er]"
   hvormange: "(hvor mange|hvormange)"
+  i: "(i|[oppe ]på)"
 
 skip_words:
   - "venligst"
